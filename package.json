@@ -20,7 +20,8 @@
     "hubot-slack": "^4.7.1",
     "hubot-greetings": "~1.0.0",
     "hubot-encourage": "~1.0.2",
-    "hubot-simple-greeting": "*"
+    "hubot-simple-greeting": "*",
+    "ws": ">=3.3.1"
   },
   "engines": {
     "node": "10.16.x"
