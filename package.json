@@ -18,7 +18,8 @@
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.1",
     "hubot-slack": "^4.7.1",
-    "hubot-greetings": "~1.0.0"
+    "hubot-greetings": "~1.0.0",
+    "hubot-encourage": "~1.0.2"
   },
   "engines": {
     "node": "10.16.x"
