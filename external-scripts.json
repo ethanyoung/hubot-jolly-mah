@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-greetings",
-  "hubot-encourage"
+  "hubot-encourage",
+  "hubot-simple-greeting"
 ]
