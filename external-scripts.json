@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-greetings",
   "hubot-encourage",
-  "hubot-simple-greeting"
+  "hubot-simple-greeting",
+  "hubot-heroku-keepalive"
 ]
